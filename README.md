@@ -1,1 +1,1 @@
-# MakeupProtoypeFlask
+# MakeupPrototypeFlask
